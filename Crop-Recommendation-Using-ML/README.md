@@ -7,7 +7,7 @@ This project utilizes Machine Learning to analyze soil nutrients and climatic co
 ## 📂 Dataset Details
 The dataset used in this project contains essential soil and environmental parameters that directly influence crop growth. 
 
-### 🔗 [View/Download Dataset (CSV)](./Crop_recommendation.csv)
+### 🔗 [View/Download Dataset (CSV)](./Crop_recommendation_Dataset.csv)
 
 **Features (Inputs):**
 * `N` - Ratio of Nitrogen content in soil
@@ -33,7 +33,7 @@ Detailed analysis, data preprocessing, and model implementation can be found in 
 ## 📈 Model Results Preview
 Below is a visual representation of the project's key results:
 
-![Model Accuracy Comparison](./edited-image.png)
+![Model Accuracy Comparison](./Model_Accuracy_Comparison.png)
 
 *(The graph above displays the accuracy comparison between different Machine Learning models used in this project.)*
 
