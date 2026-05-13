@@ -7,7 +7,7 @@ Ee project machine learning upayogichu soil nutrients (N, P, K) and climatic con
 ## 📊 Project Documentation & Report
 Project-ine kurichulla muzhuvan vivarangalum thazhe nalkiyittulla PDF-il labhyamaannu.
 
-### 🔗 [View Full Project Report (PDF)](./Crop_recommendation.pdf)
+### 🔗 [View Full Project Report (PDF)](./Crop_rec.pdf)
 
 ---
 
