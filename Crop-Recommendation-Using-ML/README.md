@@ -1,29 +1,29 @@
 # 🌾 Crop Recommendation System
 
-Ee project machine learning upayogichu soil nutrients (N, P, K) and climatic conditions (Temperature, Rainfall etc.) parishodichu, eathaanu ettavum nallathennu predict cheyyan sahayikkunnu.
+This project utilizes Machine Learning to analyze soil nutrients (N, P, K) and climatic conditions (Temperature, Rainfall, etc.) to predict the most suitable crop for cultivation.
 
 ---
 
-## 📊 Project Documentation & Report
-Project-ine kurichulla muzhuvan vivarangalum thazhe nalkiyittulla PDF-il labhyamaannu.
+## 📊 Project Source Code
+Detailed analysis, data preprocessing, and model implementation can be found in the Jupyter Notebook below:
 
-### 🔗 [View Full Project Report (PDF)](./Crop_rec.pdf)
+### 🔗 [View Project Code (Jupyter Notebook)](./Project2.ipynb)
 
 ---
 
 ## 📈 Model Results Preview
-Project-il ninnulla pradhaana result thazhe kaanam:
+Below is a visual representation of the project's key results:
 
 ![Model Accuracy Comparison](./image_1fe50f.png)
 
-*(Mugalil kaanunna graph, vividha ML models-inte accuracy thammil ulla vyathyaasam kaanikkunnu.)*
+*(The graph above displays the accuracy comparison between different Machine Learning models used in this project.)*
 
 ---
 
 ## 🛠️ Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, Scikit-learn, Matplotlib, Seaborn
-- **Platform:** Google Colab
+- **Platform:** Google Colab / Jupyter Notebook
 
 ---
 
