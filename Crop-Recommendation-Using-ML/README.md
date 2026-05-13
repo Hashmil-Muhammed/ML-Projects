@@ -7,7 +7,7 @@ This project utilizes Machine Learning to analyze soil nutrients (N, P, K) and c
 ## 📊 Project Source Code
 Detailed analysis, data preprocessing, and model implementation can be found in the Jupyter Notebook below:
 
-### 🔗 [View Project Code (Jupyter Notebook)](./Project2.ipynb)
+### 🔗 [View Project Code (Jupyter Notebook)](./Crop_recommendation.ipynb)
 
 ---
 
